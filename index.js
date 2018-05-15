@@ -28,7 +28,7 @@ mixedcase.toUpperCase() === mixedcase
   if(string.toUpperCase() === uppercase)
   return ("YES INDEED!")
   
- if (string.toLowerCase())
+ if (string.toLowerCase() === lowercase)
   return ("I can't hear you!");
   
    if (string ===  "I love you, Grandma.")
