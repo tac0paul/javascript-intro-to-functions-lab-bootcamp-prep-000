@@ -25,7 +25,7 @@ mixedcase.toUpperCase() === mixedcase
 
 function sayHiToGrandma(string) {
   (string.toUpperCase())
-  return ("YES INDEED!");
+  return ("YES INDEED!")
   
  if (string.toLowerCase())
   return ("I can't hear you!");
