@@ -25,7 +25,7 @@ var mixedcase = 'Hi there!'
 mixedcase.toLowerCase() === mixedcase
 mixedcase.toUpperCase() === mixedcase
 
-  if(string.toUpperCase())
+  if(string.toUpperCase() === uppercase)
   return ("YES INDEED!")
   
  if (string.toLowerCase())
